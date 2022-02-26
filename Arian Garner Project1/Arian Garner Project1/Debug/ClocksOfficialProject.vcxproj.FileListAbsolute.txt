@@ -1,0 +1,2 @@
+U:\ClocksOfficialProject\Debug\ClocksOfficialProject.exe
+U:\ClocksOfficialProject\Debug\ClocksOfficialProject.pdb
